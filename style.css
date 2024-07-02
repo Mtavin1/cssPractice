@@ -30,24 +30,19 @@ h1, h2, h3 {
 
 #content {
     padding: 10px;
-
 }
-
 
 #nav {
     width: 180px;
     float: left;
-
 }
-
 
 #nav ul {
     list-style-type: none;
     padding: o;
 }
 
-
-#nav.selected{
+#nav .selected{
     font-weight: bold;
 
 }
@@ -57,7 +52,6 @@ h1, h2, h3 {
     float: right;
 
 }
-
 
 #footer {
     clear: both;
