@@ -1,4 +1,4 @@
-#body {
+body {
     background-color: #EEE;
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -44,16 +44,15 @@ h1, h2, h3 {
 
 #nav .selected{
     font-weight: bold;
-
 }
 
-#main {
+#main{
     width: 600px;
     float: right;
 
 }
 
-#footer {
+#footer{
     clear: both;
     padding: 10px;
     background-color: #999999;
